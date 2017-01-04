@@ -1,5 +1,8 @@
 Hikayeyi okuduğumuzda bize Brett Thwaits adlı bi suçlunun füze kodlarını çaldığını ve çalıntı kodların bulunmus oldugu daha sonradan formatladığını söylüyor.Bizden istediği ise bu diskin backup dosyasını kullanarak bu kodlarıdan 4. olanı bulmamız.
 
+
+[![Alt text for your video](https://img.youtube.com/vi/aJghHf8giKc/0.jpg)](https://youtu.be/aJghHf8giKc)
+
 Videoda goruldugu sekilde gayet basit aslında,biraz dikkat etmek gerekiyor.Rar şifresini brute force yaparken "100" ile başlatmamın nedeni aşağıdaki resimde görüldüğü üzere kullanıcının daha önce şifre denemesi yaparken "123" ve "12345" kullanmıs olması.
 
 ![ht](https://raw.githubusercontent.com/C10ud-0/ctf/master/ht.co.uk/forensic/output/jpg/00032123.jpg)
