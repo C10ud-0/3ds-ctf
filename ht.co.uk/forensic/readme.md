@@ -1,4 +1,4 @@
-Hikayeyi okuduğumuzda bize Brett Thwaits adlı bi suçlunun füze kodlarını çaldığını ve çalıntı kodların bulunmus oldugu daha sonradan formatladığını söylüyor.Bizden istediği ise bu diskin backup dosyasını kullanarak bu kodlarıdan 4. olanı bulmamız.
+Hikayeyi okuduğumuzda bize Brett Thwaits adlı bi suçlunun füze kodlarını çaldığını ve çalıntı kodların bulunmus oldugu daha sonradan formatladığını söylüyor.Bizden istediği ise bu diskin backup dosyasını kullanarak bu kodlarıdan 4. olanı bulmamız.Çözümün tüm adımları aşağıdaki videoda göstermeye çalıştım.
 
 
 
