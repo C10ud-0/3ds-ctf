@@ -1,0 +1,1 @@
+Wireshark ile incelediğimizde bulunan tek paketi takip edip verilere bakıldığında içerisinde bağlantı sırasında kullanılan veriyi görebiliyoruz.Bunuda bir base64 decoder ile çözdüğümüzde bize cevap geliyor.

@@ -1,0 +1,1 @@
+Resimi dikkatli şekilde incelediğimizde sağ üst tarafta çok az belirgin olsada pass görünüyor,RGB planelerini değiştirerek daha net bi görüntü elde edebiliyoruz ama orjinal resimdende görülebiliyor açıkça.
