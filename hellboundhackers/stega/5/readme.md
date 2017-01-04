@@ -1,12 +1,25 @@
+![hbh](https://raw.githubusercontent.com/C10ud-0/ctf/master/hellboundhackers/stega/5/stegano5.png)
+
 Ilk olarak klasik resme file,exiftool,stegsolve ile baktım herhangi bi değer çıkmadı daha sonra resmi gimp ile açtım ve resimdeki değerleri teker teker beyazlar "0" ve siyahlar "1" olacak şekilde manuel sekilde decode ettim.
 (Bu arada resimdeki siyahların ve beyazların birer pixel yer tuttuğunu görmüş olduk burası ilerde lazım olucak bi kenarda dursun.)
 
 
+```
 01000011011011110110111001100111011100100110000101110100011101010110
 11000110000101110100011010010110111101101110011100110010110000100000
+```
+
+![hbh](https://raw.githubusercontent.com/C10ud-0/ctf/master/hellboundhackers/stega/5/51.png)
+
+
+
+
 
 Ilk iki sıra bu şekilde çıktı ve "Congratu'" yazıyordu.Burda artık bi mesaj barındırdığından emin olduktan sonra manuel olarak yazmak hem zor hemde hata riski olduğundan bi python scripti oluşturdum.Çıktısı aşağıdaki gibi oldu:
 
+![hbh](https://raw.githubusercontent.com/C10ud-0/ctf/master/hellboundhackers/stega/5/52.png)
+
+```
 01000011011011110110111001100111011100100110000101110100011101010110
 11000110000101110100011010010110111101101110011100110010110000100000
 01011001011011110111010100100000011010000110000101110110011001010010
@@ -20,6 +33,9 @@ Ilk iki sıra bu şekilde çıktı ve "Congratu'" yazıyordu.Burda artık bi mes
 01110011011101110110010101110010001000000110001001101111011110000010
 11000010000001100110011011110111001000100000011110010110111101110101
 01110010001000000111000001101111011010010110111001110100011100110000
+
+```
+![hbh](https://raw.githubusercontent.com/C10ud-0/ctf/master/hellboundhackers/stega/5/53.png)
 
 Bu mesajıda decode ettiğimizde bize:
 
