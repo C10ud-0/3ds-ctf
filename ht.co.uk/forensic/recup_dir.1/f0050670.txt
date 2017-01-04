@@ -1,0 +1,1 @@
+Type /XObject/Subtype /Image/Name /Im75/Width 344/Height 316/BitsPerComponent 8/ColorSpace /DeviceRGB/Length 15687/Filter /DCTDecode>> stream

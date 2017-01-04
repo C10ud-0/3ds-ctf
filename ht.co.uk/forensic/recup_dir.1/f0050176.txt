@@ -1,0 +1,3 @@
+/F18 1428 0 R/F19 1431 0 R>> /XObject <</Im44 1456 0 R>> /ProcSet [/PDF /Text /ImageB /ImageC]>> /Contents 1457 0 R>> endobj1456 0 obj
+<</Type /XObject/Subtype /Image/Name /Im44/Width 226/Height 92/BitsPerComponent 2/ColorSpace [/Indexed /DeviceRGB 2 <60608000000000FF00>]/Length 327/Filter /FlateDecode>> stream
+x

@@ -1,0 +1,3 @@
+ont <</F15 1419 0 R/F17 1425 0 R/F19 1431 0 R>> /XObject <</Im28 1440 0 R/Im29 1441 0 R>> /ProcSet [/PDF /Text /ImageB /ImageC]>> /Contents 1442 0 R>> endobj1440 0 obj
+<</Type /XObject/Subtype /Image/Name /Im28/Width 594/Height 188/BitsPerComponent 1/ColorSpace /DeviceGray/DecodeParms <</K -1/Columns 594>> /Length 3616/Filter /CCITTFaxDecode>> stream
+#

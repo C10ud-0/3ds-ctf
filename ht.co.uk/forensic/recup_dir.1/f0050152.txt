@@ -1,0 +1,2 @@
+th 459/Height 34/BitsPerComponent 1/ColorSpace /DeviceGray/DecodeParms <</K -1/Columns 459>> /Length 426/Filter /CCITTFaxDecode>> stream
+& j

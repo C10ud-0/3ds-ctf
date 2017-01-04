@@ -1,0 +1,2 @@
+BitsPerComponent 1/ColorSpace /DeviceGray/DecodeParms <</K -1/Columns 203>> /Length 583/Filter /CCITTFaxDecode>> stream
+&
