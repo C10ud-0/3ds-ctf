@@ -15,7 +15,32 @@ Ilk olarak klasik resme file,exiftool,stegsolve ile baktım herhangi bi değer �
 
 
 
-Ilk iki sıra bu şekilde çıktı ve "Congratu'" yazıyordu.Burda artık bi mesaj barındırdığından emin olduktan sonra manuel olarak yazmak hem zor hemde hata riski olduğundan bi python scripti oluşturdum.Çıktısı aşağıdaki gibi oldu:
+Ilk iki sıra bu şekilde çıktı ve "Congratu'" yazıyordu.Burda artık bi mesaj barındırdığından emin olduktan sonra manuel olarak yazmak hem zor hemde hata riski olduğundan bi python scripti oluşturdum:
+```
+import os, sys
+from PIL import Image
+
+st5 = Image.open("stegano5.png")
+#Pixel degerleri
+width = st5.size[0] 
+height = st5.size[1]
+
+#Her pixel konumunu teker teker kontrol
+for y in range(0, height): 
+	row = ""
+	for x in range(0, width):
+		pix = st5.load()
+		if pix[x,y] == 255:
+			print("0",end="") #Beyaz olduğunda "0" yaz
+		if pix[x,y] == 0 :
+			print("1",end="") #Siyah olduğunda "1" yaz
+      
+ ```
+
+
+
+
+Çıktısı aşağıdaki gibi oldu:
 
 ![hbh](https://raw.githubusercontent.com/C10ud-0/ctf/master/hellboundhackers/stega/5/52.png)
 
