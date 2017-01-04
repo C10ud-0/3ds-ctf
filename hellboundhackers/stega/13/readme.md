@@ -1,0 +1,1 @@
+Zip dosyasının içerisinden çıkan ses dosyasını Audacity ile başta bişey anlaşılmasada Reverse ettikten sonra belirgin sesler elde ediliyor.Daha sonra hızında oynama yaparak yaklasık x1.85'de belirgin şifreyi yakaladım ve cevap "F51TZ" olarak geldi.

@@ -1,0 +1,1 @@
+Resmi "exiftool steg12.jpg | grep Comment " olarak incelediğinizde bi yorum eklenmiş olduğunu görüyorsunuz.Bi Comment eklenmiş olduğunu gördükten sonra detaylı inceledim zaten cevap ilk komutla geldiği şekilde puan verdi.

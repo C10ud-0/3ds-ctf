@@ -1,0 +1,1 @@
+Ilk bakıldığında zaten çıkan şekil binary diye bağırıyor resmen,ilk başta "o"ları değiştirerek denedim olmadı fakat "o" ları "0"ile değiştirdiğinde alt kısımlarda bulunan değer bize flag'i veriyor direk olarak.

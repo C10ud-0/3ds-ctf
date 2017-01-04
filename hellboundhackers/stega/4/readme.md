@@ -1,0 +1,1 @@
+Yazıyı tekrar tekrar okuyarak bi hint aradım fakat "stealing feds' letters. Ooh this message." i görmem zor oldu daha sonra abest olan bu metnin harflerine bakmaya başladım,hızlı olması için sadece ilk 4 kelimeyi inceleyerek 3.harflerinde "i" "r" "o" "c" kısmına baktıktan sonra kısa bi kod yazdım sonuç resimdeki gibi çıktı.Tek yapmam gereken kelime aralarına boşluk koymak oldu.
